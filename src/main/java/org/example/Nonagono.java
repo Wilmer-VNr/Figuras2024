@@ -1,5 +1,6 @@
 package org.example;
 
+// figura geometrica de 9 lados
 public class Nonagono extends Geometricas{
 
     Double longitudLado;
